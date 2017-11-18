@@ -1,4 +1,4 @@
-FROM jojimail/php-nginx-ubuntu:16.04
+FROM jojimail/php-nginx-ubuntu:17.04
 MAINTAINER Joji Augustine "jojimail@gmail.com"
 
 RUN apt-get update && apt-get install -y \
